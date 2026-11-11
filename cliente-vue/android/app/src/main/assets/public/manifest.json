@@ -1,0 +1,12 @@
+{
+  "name": "Mi App Ingeniería Web",
+  "short_name": "MiApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14213D",
+  "icons": [
+    { "src": "/public/icons/192.png", "sizes": "192x192", "type": "imagen/png" },
+    { "src": "/public/icons/512.png", "sizes": "512x512", "type": "imagen/png" }
+  ]
+}

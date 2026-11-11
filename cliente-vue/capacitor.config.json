@@ -1,0 +1,6 @@
+{
+  "appId": "com.continental.miapp",
+  "appName": "Mi App",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}

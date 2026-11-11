@@ -1,0 +1,10 @@
+[
+    {
+        "pkg": "@capacitor/network",
+        "classpath": "com.capacitorjs.plugins.network.NetworkPlugin"
+    },
+    {
+        "pkg": "@capacitor/camera",
+        "classpath": "com.capacitorjs.plugins.camera.CameraPlugin"
+    }
+]
